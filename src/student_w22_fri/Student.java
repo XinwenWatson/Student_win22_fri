@@ -9,6 +9,7 @@ package student_w22_fri;
  *
  * @author Administrator
  */
+//comment
 public class Student {
     private String studentId;
     private String studentName;
